@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Sentinelab.PrivatBank.Api</AssemblyName>
+    <RootNamespace>Sentinelab.PrivatBank.Api</RootNamespace>
+    <Company>Sentinelab</Company>
+    <Authors>TertAlex</Authors>
+    <PackageIcon>PrivatBankIcon.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Aleksei\Pictures\PrivatBankIcon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
